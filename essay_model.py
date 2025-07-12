@@ -85,7 +85,7 @@ Now, perform the detailed analysis and provide a comprehensive report as a singl
                     "X-Title": "Mental Health Analysis",
                 },
                 extra_body={},
-                model="meta-llama/llama-3.1-8b-instruct:free",
+                model="meta-llama/llama-3.1-8b-instruct",
                 messages=[
                     {"role": "user", "content": prompt}
                 ],
